@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/src/my_pp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/src/my_pp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/src/my_pp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/tool/generator/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/tool/generator/build" />
+      <excludeFolder url="file://$MODULE_DIR$/tool/generator/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_brick/__brick__/{{project_name.snakeCase()}}/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_brick/__brick__/{{project_name.snakeCase()}}/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_brick/__brick__/{{project_name.snakeCase()}}/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
